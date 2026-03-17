@@ -1,0 +1,1 @@
+/home/ubuntu/.openclaw/workspace/dotenv-nexus/target/release/dnx: /home/ubuntu/.openclaw/workspace/dotenv-nexus/src/config.rs /home/ubuntu/.openclaw/workspace/dotenv-nexus/src/crypto.rs /home/ubuntu/.openclaw/workspace/dotenv-nexus/src/env_files.rs /home/ubuntu/.openclaw/workspace/dotenv-nexus/src/main.rs

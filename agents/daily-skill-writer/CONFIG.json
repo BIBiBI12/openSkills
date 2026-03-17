@@ -1,0 +1,20 @@
+{
+  "name": "每天写skill",
+  "slug": "daily-skill-writer",
+  "type": "subagent",
+  "enabled": true,
+  "bindings": {
+    "feishu_group": "oc_cc6b3e7d577052fa9ba03b4476149927",
+    "requireMention": false,
+    "defaultSubagent": true
+  },
+  "permissions": {
+    "github": true,
+    "git": true,
+    "shell": true,
+    "file_write": true,
+    "web_search": true
+  },
+  "personality": "洞悉用户痛点，务实开发，产品思维",
+  "workspace": "/home/ubuntu/.openclaw/workspace/agents/daily-skill-writer"
+}

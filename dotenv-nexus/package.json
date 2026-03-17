@@ -1,0 +1,34 @@
+{
+  "name": "dotenv-nexus",
+  "version": "1.0.0",
+  "description": "The modern .env file manager - encrypt, store, share environment variables safely in git",
+  "main": "index.js",
+  "bin": {
+    "dotenv-nexus": "./bin/cli.js",
+    "dnx": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["dotenv", "environment", "env", "configuration", "encryption", "secrets", "git"],
+  "author": "渊 <yf@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "crypto-js": "^4.2.0",
+    "inquirer": "^8.2.6",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BIBiBI12/dotenv-nexus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BIBiBI12/dotenv-nexus/issues",
+    "homepage": "https://github.com/BIBiBI12/dotenv-nexus#readme"
+  }
+}
